@@ -1,0 +1,3 @@
+GENERAL_USER : /, /home, /login, /offices
+MANAGER : /, /home, /login, /offices, /offices?action=U
+SU : /, /home, /login, /offices, /offices?action=U, /offices?action=D
